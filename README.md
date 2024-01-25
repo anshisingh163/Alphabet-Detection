@@ -9,8 +9,7 @@ This project is designed for alphabet detection using machine learning technique
 - [Installation](#installation)
 - [Usage](#usage)
 - [Models](#models)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Installation
 
